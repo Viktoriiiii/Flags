@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void setInitialData() {
         states.add(new State("Россия", "Москва", R.drawable.russia));
-        states.add(new State("Белорусия", "Минск", R.drawable.belarus));
+        states.add(new State("Белоруссия", "Минск", R.drawable.belarus));
         states.add(new State("Германия", "Берлин", R.drawable.germany));
         states.add(new State("Грузия", "Тбилиси", R.drawable.georgia));
         states.add(new State("Канада", "Оттава", R.drawable.canada));
